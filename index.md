@@ -18,7 +18,7 @@ Taipei, TPE
 ```
 - M.S. in Computer Science
 - Worked with prof. Hsing-Kuo Pao, on Machine Learning Laboratory.
-- Master's Thesis: [Traffic State Forecasting based on Multi-model Gaussian Process Regression](http://etheses.lib.ntust.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=1GhA.h/record?r1=1&h1=1)
+- Master Thesis: [Traffic State Forecasting based on Multi-model Gaussian Process Regression](http://etheses.lib.ntust.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=1GhA.h/record?r1=1&h1=1)
 
 ### __Yuan Ze University__ `2008.9 - 2012.6`
 ```
@@ -29,8 +29,18 @@ Taoyuan, TYN
 ## Experience
 
 ### __Quanta Computer Incorporated__ `2016.5 - `
-- BSP team
->- 
+#### __BSP Team Membor__
+- Function: charger, gauge, PMIC, power.
+- Bootloader development(UEFI, little kernel)
+- Android kernel, Driver, framework and HAL porting
+- Android Framework customized
+- Factory test tool development
+
+#### __Project__
+- Verizon Tablet
+- Clover POS
+- Quanta Smart Speaker
+- Quanta Camera
 
 ### __Armor Training Command__ `2015.3 - 2016.2`
 - Mandatory military service
