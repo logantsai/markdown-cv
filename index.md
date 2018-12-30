@@ -30,7 +30,7 @@ Taoyuan, TYN
 
 ### __Quanta Computer Incorporated__ `2016.5 - `
 - BSP team
- - 
+- 
 
 ### __Armor Training Command__ `2015.3 - 2016.2`
 - Mandatory military service
