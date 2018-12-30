@@ -28,14 +28,14 @@ Taoyuan, TYN
 
 ## Experience
 ### __Quanta Computer Inc.__ `2016.5 - Now`
->> __BSP Team Membor__
+>> BSP Team Membor
 >- Function: charger, gauge, PMIC, power.
 >- Bootloader development(UEFI, little kernel)
 >- Android kernel, Driver, framework and HAL porting
 >- Android Framework customized
 >- Factory test tool development
 
->> __Product__
+>> Product
 >- Verizon Tablet
 >- Clover POS
 >- Quanta Smart Speaker
@@ -44,7 +44,7 @@ Taoyuan, TYN
 ### __Armor Training Command__ `2015.3 - 2016.2`
 - Mandatory Military Service
 
-## __Miscellaneous__
+## Miscellaneous
 - Programming language: C, C++, Markdown
 - Interests: Badminton, World of Warcraft, Hearthstone
 - Favorite reference book:
