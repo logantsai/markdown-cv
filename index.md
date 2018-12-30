@@ -29,18 +29,18 @@ Taoyuan, TYN
 ## Experience
 
 ### __Quanta Computer Incorporated__ `2016.5 - `
-#### __BSP Team Membor__
-- Function: charger, gauge, PMIC, power.
-- Bootloader development(UEFI, little kernel)
-- Android kernel, Driver, framework and HAL porting
-- Android Framework customized
-- Factory test tool development
+>#### __BSP Team Membor__
+>- Function: charger, gauge, PMIC, power.
+>- Bootloader development(UEFI, little kernel)
+>- Android kernel, Driver, framework and HAL porting
+>- Android Framework customized
+>- Factory test tool development
 
-#### __Project__
-- Verizon Tablet
-- Clover POS
-- Quanta Smart Speaker
-- Quanta Camera
+>#### __Project__
+>- Verizon Tablet
+>- Clover POS
+>- Quanta Smart Speaker
+>- Quanta Camera
 
 ### __Armor Training Command__ `2015.3 - 2016.2`
 - Mandatory military service
