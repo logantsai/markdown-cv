@@ -24,7 +24,6 @@ Taipei, TPE
 ```
 Taoyuan, TYN
 ```
-### __Yuan Ze University__ `2008.9 - 2012.6`
 - B.S. in Computer Science
 
 ## Publications
