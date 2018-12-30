@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: MarkTsai
 pdf: true
 ---
 # Shiaugeng Tsai (Mark)
@@ -46,7 +46,9 @@ Taoyuan, TYN
 
 ## __Miscellaneous__
 - Programming language: C, C++, Markdown
-- Interesging: Badminton, World of Warcraft, Hearthstone
+- Interests: Badminton, World of Warcraft, Hearthstone
+- Favorite Tools:
+>- Advanced Programming in the UNIX Environment, The Linux Programming Interface, CSAPP,
 
 <!-- ### Footer
 
