@@ -47,8 +47,10 @@ Taoyuan, TYN
 ## __Miscellaneous__
 - Programming language: C, C++, Markdown
 - Interests: Badminton, World of Warcraft, Hearthstone
-- Favorite Tools:
->- Advanced Programming in the UNIX Environment, The Linux Programming Interface, CSAPP,
+- Favorite reference book:
+>- LDD, APUE, CSAPP, UNIX Network programming, The Linux Programming Interface
+- Favorite reference website:
+>- [Bootlin](https://elixir.bootlin.com/linux/latest/source), [ncku_csie wiki](http://wiki.csie.ncku.edu.tw/)
 
 <!-- ### Footer
 
