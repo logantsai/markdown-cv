@@ -29,14 +29,14 @@ Taoyuan, TYN
 ## Experience
 
 ### __Quanta Computer Incorporated__ `2016.5 - `
->#### __BSP Team Membor__
+>__BSP Team Membor__
 >- Function: charger, gauge, PMIC, power.
 >- Bootloader development(UEFI, little kernel)
 >- Android kernel, Driver, framework and HAL porting
 >- Android Framework customized
 >- Factory test tool development
 
->#### __Project__
+>__Project__
 >- Verizon Tablet
 >- Clover POS
 >- Quanta Smart Speaker
