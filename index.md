@@ -50,7 +50,7 @@ Taoyuan, TYN
 - Favorite reference book:
 >- LDD, APUE, CSAPP, UNIX Network programming, The Linux Programming Interface
 - Favorite reference website:
->- [Bootlin](https://elixir.bootlin.com/linux/latest/source), [ncku_csie wiki](http://wiki.csie.ncku.edu.tw/)
+>- [Bootlin](https://elixir.bootlin.com/linux/latest/source), [NCKU csie wiki](http://wiki.csie.ncku.edu.tw/)
 
 <!-- ### Footer
 
