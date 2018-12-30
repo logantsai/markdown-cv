@@ -3,7 +3,7 @@ layout: cv
 title: Wode "Nimo" Ni
 pdf: true
 ---
-# ShiauGeng Tsai
+# Shiaugeng Tsai (Mark)
 
 <div id="webaddress">
 <i class="fi-mail" style="margin-left:1em"></i>
@@ -26,13 +26,11 @@ Taoyuan, TYN
 ```
 - B.S. in Computer Science
 
-## Publications
-
-
-
 ## Experience
 
+### __Quanta Computer Incorporated__ `2016.5 - `
 
+### __Armor Training Command__ `2015.3 - 2016.2`
 
 ## Teaching
 
