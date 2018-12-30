@@ -44,7 +44,7 @@ Taoyuan, TYN
 ### __Armor Training Command__ `2015.3 - 2016.2`
 - Mandatory Military Service
 
-### __Miscellaneous__
+## __Miscellaneous__
 - Programming language: C, C++, Markdown
 - Interesging: Badminton, World of Warcraft, Hearthstone
 
