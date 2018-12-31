@@ -45,9 +45,10 @@ Taoyuan, TYN
 - Mandatory Military Service
 
 ### __Job Objective__
-- 
+- Before working on Quanta, I never had practical experience in unix-like system. When I began to access project, I just understood the different between kernel and user space. On  
+the power function, I learned not only basic module concept but also device tree and sysfs, it's the most important thing as bring up the device. Besides, I needed to implement dead battery charging on boot-loader, so it also have to port charger and gauge to here. HAL and Android framework are the most important part on AOSP, but I seldom have much research on this. Therefore, I hoped that future job would involve this.
 
-- Mandatory Military Service
+ Between studying Linux kernel, I lived by the motto,"Read the fucking source code". Based on reading the source code, I just know how to write C language. 
 
 ## Miscellaneous
 - Programming language: C, C++, Markdown
