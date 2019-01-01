@@ -45,11 +45,14 @@ Taoyuan, TYN
 - Mandatory Military Service
 
 ## Job Objective
-- Andoir/HAL framework: After porting driver, hoping that I could implement corresponding program to access driver. Many useful IPC I learend but not practiced in actual project.
+- Andoir/HAL framework: After porting driver, hoping that I could implement corresponding program to access driver.
+Many useful IPC I learend but not practiced in actual project.
 
-- Linux kernel framework: Because of using turnkey soluton on each project, our exteranl driver have to follow Qcom/MTK architecture. I want to implement or touch new architecture which never face.
+- Linux kernel framework: Because of using turnkey soluton on each project, our exteranl driver have to follow Qcom/MTK 
+architecture. I want to implement or touch new architecture which never face.
 
-- Java/Python: Between reading the answer of leetcode test, I learned much new language feature and tried to taste it in actual project. 
+- Java/Python: Between reading the answer of leetcode test, I learned much new language feature and tried to taste it 
+in actual project. 
 
 ## Miscellaneous
 - Programming language: C, C++, Markdown
