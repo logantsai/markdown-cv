@@ -46,15 +46,15 @@ Taoyuan, TYN
 
 ## Job Objective
 - Andoir/HAL framework:
->After porting driver, hoping that I could implement corresponding program to access driver.
+>After porting driver, hoping that I could implement corresponding program to access driver. <br />
 >Many useful IPC I learend but not practiced in actual project.
 
 - Linux kernel framework:
->Because of using turnkey soluton on each project, our exteranl driver have to follow Qcom/MTK 
+>Because of using turnkey soluton on each project, our exteranl driver have to follow Qcom/MTK <br />
 >architecture. I want to implement or touch new architecture which never face.
 
 - Java/Python:
->Between reading the answer of leetcode test, I learned much new language feature and tried to taste it 
+>Between reading the answer of leetcode test, I learned much new language feature and tried to taste it <br />
 >in actual project. 
 
 ## Miscellaneous
