@@ -54,8 +54,8 @@ Taoyuan, TYN
 >architecture. I want to implement or touch new architecture which never face.
 
 - Java/Python:
->Between reading the answer of leetcode test, I learned much new language feature and tried to taste it <br />
->in actual project. 
+>Between reading the answer of leetcode test, I learned much new language feature and tried <br />
+>to taste it in actual project. 
 
 ## Miscellaneous
 - Programming language: C, C++, Markdown
