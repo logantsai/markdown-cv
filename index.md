@@ -45,9 +45,11 @@ Taoyuan, TYN
 - Mandatory Military Service
 
 ## Job Objective
-Before working on Quanta, I never had practical experience in unix-like system. When I began to access project, I just understood the different between kernel and user space. On the power function, I learned not only basic module concept but also device tree and sysfs, it's the most important thing as bring up the device. Besides, I needed to implement dead battery charging on boot-loader, so it also have to port charger and gauge to here. HAL and Android framework are the most important part on AOSP, but I seldom have much research on this. Therefore, I hoped that future job would involve this.
+- Andoir/HAL framework: After porting driver, hoping that I could implement corresponding program to access driver. Many useful IPC I learend but not practiced in actual project.
 
-Between studying Linux kernel, I lived by the motto,"Read the fucking source code". Based on reading the source code, I just know how to write C language. 
+- Linux kernel framework: Because of using turnkey soluton on each project, our exteranl driver have to follow Qcom/MTK architecture. I want to implement or touch new architecture which never face.
+
+- Java/Python: Between reading the answer of leetcode test, I learned much new language feature and tried to taste it in actual project. 
 
 ## Miscellaneous
 - Programming language: C, C++, Markdown
