@@ -42,15 +42,17 @@ __Project__
 >> * Fine-tuned charging behavior as device low battery and in a state of low/high temperature.
 >> * Customized demo mode for store exhibition.
 >> * Fixed some battery icon or capacity display error.
-> <br />
+>  <br />
 > - Clover POS Qualcomm APQ8028/APQ8094/SDA660
 >> * Porting BQ25703 charger and BQ28z610 gauge.
 >> * Check PMIC or external regulator to optimal device power consumption to pass CEC.
 >> * Reduce current peak by 
-> <br />
->- Quanta POS
->- Quanta Smart Speaker
->- Quanta Camera
+>  <br />
+> - Peloton Display
+> - Quanta POS
+> - Quanta Smart Speaker
+> - Quanta Camera
+
 
 ### __Armor Training Command__ `2015.3 - 2016.2`
 - Mandatory Military Service
