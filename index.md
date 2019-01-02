@@ -20,15 +20,14 @@ pdf: true
 
 ## Experience
 ### __Quanta Computer Inc.__ `2016.5 - Now`
-__Project__
-- Verizon Tablet (MTK MT8785)
+- __Verizon Tablet__ (MTK MT8785)
 > * Porting BQ25896 into MTK battery subsystem and Increase HVDCP charging.
 > * Implemented dead battery charging into little kernel.
 > * Fine-tuned charging behavior as device low battery and in a state of low/high temperature.
 > * Customized demo mode for store exhibition.
 > * Fixed some battery icon or capacity display error.
 
-- Clover POS (Qualcomm APQ8028/APQ8094/SDA660)
+- __Clover POS__ (Qualcomm APQ8028/APQ8094/SDA660)
 > * Porting BQ25703 charger and BQ28z610 gauge.
 > * Check PMIC or external regulator to optimal device power consumption to pass CEC.
 > * Reduce current peak by tuning CPU clock.
@@ -36,15 +35,15 @@ __Project__
 - Peloton Fitness Display (MTK MT8173)
 > * 
 
-- Quanta POS MTK MT8167B
+- __Quanta POS__ MTK MT8167B
 > * Porting BQ25890 charger and BQ27541 gauge.
 > * Power consumption optimal.
 
-- Quanta Smart Speaker (MTK MT8167 Yocto project)
-> * Take Cyberon CSpotter/Clistener/CReadr library to implement a smiple smart speak
+- __Quanta Smart Speaker__ (MTK MT8167 Yocto project)
+> * Take Cyberon CSpotter/Clistener/CReadr library to implement a smiple smart speaker
 > * Linux kernel gauge/charger portring
 
-- Quanta Camera (Socionext Yocto project)
+- __Quanta Camera__ (Socionext Yocto project)
 > * GPIO configuration 
 
 ### __Armor Training Command__ `2015.3 - 2016.2`
@@ -66,7 +65,7 @@ Taoyuan, TYN
 - B.S. in Computer Science
 
 ## Job Objective
->- Andoir/HAL framework: 
+>- Andoir/HAL framework: <br />
 After porting driver, hoping that I could implement corresponding program to access driver.
 Many useful IPC I learend but not practiced in actual project.
 
