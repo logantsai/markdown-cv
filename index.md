@@ -37,11 +37,11 @@ Taoyuan, TYN
 ### __Quanta Computer Inc.__ `2016.5 - Now`
 __Project__
 - Verizon Tablet MTK MT8785
-> * Porting BQ25896 into MTK battery subsystem and Increase HVDCP charging.
+>* Porting BQ25896 into MTK battery subsystem and Increase HVDCP charging.
 > * Implemented dead battery charging into little kernel.
 > * Fine-tuned charging behavior as device low battery and in a state of low/high temperature.
 > * Customized demo mode for store exhibition.
-> * Fixed some battery icon or capacity display error.  </br>
+> * Fixed some battery icon or capacity display error. <br />
 
 - Clover POS Qualcomm APQ8028/APQ8094/SDA660
 > * Porting BQ25703 charger and BQ28z610 gauge.
