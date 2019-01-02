@@ -26,18 +26,27 @@ Taoyuan, TYN
 ```
 - B.S. in Computer Science
 
+## Technical Skills
+- Familiar with BSP, charger, gauge, PMIC, devcie tree framework
+- 
+- Experience in Yocto project, AOSP
+- Bootloader development(UEFI, little kernel) driver port and customized.
+- Android kernel, Driver, framework and HAL porting
+- Factory test tool development(shell script)
+
 ## Experience
 ### __Quanta Computer Inc.__ `2016.5 - Now`
->> BSP Team Membor
->- Function: charger, gauge, PMIC, power.
->- Bootloader development(UEFI, little kernel)
->- Android kernel, Driver, framework and HAL porting
->- Android Framework customized
->- Factory test tool development
+>> Project
+>- Verizon Tablet MTK MT8785
+>>- Porting BQ25896 into MTK battery subsystem and Increase HVDCP charging.
+>>- Implemented dead battery charging into little kernel.
+>>- Fine-tuned charging behavior as device low battery and in a state of low/high temperature.
+>>- Customized demo mode for store exhibition.
+>>- Fixed some battery icon or capacity display error.
 
->> Product
->- Verizon Tablet
 >- Clover POS
+
+>- Quanta POS
 >- Quanta Smart Speaker
 >- Quanta Camera
 
