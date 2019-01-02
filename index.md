@@ -48,10 +48,10 @@ __Project__
 > * Check PMIC or external regulator to optimal device power consumption to pass CEC.
 > * Reduce current peak by </br> 
 
-- Peloton Fitness Display
-- Quanta POS
-- Quanta Smart Speaker
-- Quanta Camera
+-Peloton Fitness Display
+-Quanta POS
+-Quanta Smart Speaker
+-Quanta Camera
 
 
 ### __Armor Training Command__ `2015.3 - 2016.2`
