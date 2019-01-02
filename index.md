@@ -32,7 +32,7 @@ pdf: true
 > * Check PMIC or external regulator to optimal device power consumption to pass CEC.
 > * Reduce current peak by tuning CPU clock.
 
-- Peloton Fitness Display (MTK MT8173)
+- __Peloton Fitness Display__ (MTK MT8173)
 > * 
 
 - __Quanta POS__ MTK MT8167B
