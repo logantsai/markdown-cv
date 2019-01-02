@@ -50,19 +50,6 @@ __Project__
 ### __Armor Training Command__ `2015.3 - 2016.2`
 - Mandatory Military Service
 
-## Job Objective
->- Andoir/HAL framework: <br />
-After porting driver, hoping that I could implement corresponding program to access driver.
-Many useful IPC I learend but not practiced in actual project.
-
->- Linux kernel framework: <br />
->Because of using turnkey soluton on each project, our exteranl driver have to follow Qcom/MTK
->architecture. I want to implement or touch new architecture which never face.
-
->- Java/Python: <br />
-Between reading the answer of leetcode test, I learned much new language feature and tried
-to taste it in actual project.
-
 ## Education
 ### __National Taiwan University of Science and Technology__ `2012.9 - 2015.2`
 ```
@@ -77,6 +64,19 @@ Taipei, TPE
 Taoyuan, TYN
 ```
 - B.S. in Computer Science
+
+## Job Objective
+>- Andoir/HAL framework: <br />
+After porting driver, hoping that I could implement corresponding program to access driver.
+Many useful IPC I learend but not practiced in actual project.
+
+>- Linux kernel framework: <br />
+>Because of using turnkey soluton on each project, our exteranl driver have to follow Qcom/MTK
+>architecture. I want to implement or touch new architecture which never face.
+
+>- Java/Python: <br />
+Between reading the answer of leetcode test, I learned much new language feature and tried
+to taste it in actual project.
 
 ## Miscellaneous
 - Programming language: C, C++, Markdown
