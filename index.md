@@ -46,12 +46,14 @@ __Project__
 - Clover POS Qualcomm APQ8028/APQ8094/SDA660
 > * Porting BQ25703 charger and BQ28z610 gauge.
 > * Check PMIC or external regulator to optimal device power consumption to pass CEC.
-> * Reduce current peak by  </br> 
+> * Reduce current peak by <br />
 
-- Peloton Fitness Display
-- Quanta POS
+- Peloton Fitness Display MTK MT8173
+> * 
+
+- Quanta POS MTK MT8167B
 > * Porting BQ25890 charger and BQ27541 gauge.
-> * Power consumption optimal.</br>
+> * Power consumption optimal. <br />
 
 - Quanta Smart Speaker
 - Quanta Camera
@@ -62,7 +64,7 @@ __Project__
 
 ## Job Objective
 >- Andoir/HAL framework: <br />
-After porting driver, hoping that I could implement corresponding program to access driver.  <br />
+After porting driver, hoping that I could implement corresponding program to access driver.
 Many useful IPC I learend but not practiced in actual project.
 
 >- Linux kernel framework: <br />
