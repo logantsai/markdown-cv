@@ -41,13 +41,13 @@ __Project__
 > * Implemented dead battery charging into little kernel.
 > * Fine-tuned charging behavior as device low battery and in a state of low/high temperature.
 > * Customized demo mode for store exhibition.
-> * Fixed some battery icon or capacity display error.
->  <br />
+> * Fixed some battery icon or capacity display error.  </br>
+
 -Clover POS Qualcomm APQ8028/APQ8094/SDA660
 > * Porting BQ25703 charger and BQ28z610 gauge.
 > * Check PMIC or external regulator to optimal device power consumption to pass CEC.
-> * Reduce current peak by 
->  <br />
+> * Reduce current peak by </br> 
+
 - Peloton Fitness Display
 - Quanta POS
 - Quanta Smart Speaker
