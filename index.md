@@ -50,6 +50,9 @@ __Project__
 
 - Peloton Fitness Display
 - Quanta POS
+> * Porting BQ25890 charger and BQ27541 gauge.
+> * Power consumption optimal.</br>
+
 - Quanta Smart Speaker
 - Quanta Camera
 
@@ -59,7 +62,7 @@ __Project__
 
 ## Job Objective
 >- Andoir/HAL framework: <br />
-After porting driver, hoping that I could implement corresponding program to access driver.
+After porting driver, hoping that I could implement corresponding program to access driver.  <br />
 Many useful IPC I learend but not practiced in actual project.
 
 >- Linux kernel framework: <br />
