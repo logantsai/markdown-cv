@@ -10,54 +10,42 @@ pdf: true
 <a href="marktsai0213@gmail.com" style="margin-left:0.5em">marktsai0213@gmail.com</a>
 </div>
 
-## Education
-
-### __National Taiwan University of Science and Technology__ `2012.9 - 2015.2`
-```
-Taipei, TPE
-```
-- M.S. in Computer Science
-- Worked with prof. Hsing-Kuo Pao, on Machine Learning Laboratory.
-- Master Thesis: [Traffic State Forecasting based on Multi-model Gaussian Process Regression](http://etheses.lib.ntust.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=1GhA.h/record?r1=1&h1=1)
-
-### __Yuan Ze University__ `2008.9 - 2012.6`
-```
-Taoyuan, TYN
-```
-- B.S. in Computer Science
-
 ## Technical Skills
 - Familiar with BSP, charger, gauge, PMIC, devcie tree framework
 - Experience in Yocto project, AOSP
-- Bootloader development(UEFI, little kernel) driver port and customized.
+- Bootloader development(UEFI, little kernel) driver port and customized
 - Android kernel, Driver, framework and HAL porting
 - Factory test tool development(shell script)
+- Version control toos: Git
 
 ## Experience
 ### __Quanta Computer Inc.__ `2016.5 - Now`
 __Project__
-- Verizon Tablet MTK MT8785
->* Porting BQ25896 into MTK battery subsystem and Increase HVDCP charging.
+- Verizon Tablet (MTK MT8785)
+> * Porting BQ25896 into MTK battery subsystem and Increase HVDCP charging.
 > * Implemented dead battery charging into little kernel.
 > * Fine-tuned charging behavior as device low battery and in a state of low/high temperature.
 > * Customized demo mode for store exhibition.
 > * Fixed some battery icon or capacity display error. <br />
 
-- Clover POS Qualcomm APQ8028/APQ8094/SDA660
+- Clover POS (Qualcomm APQ8028/APQ8094/SDA660)
 > * Porting BQ25703 charger and BQ28z610 gauge.
 > * Check PMIC or external regulator to optimal device power consumption to pass CEC.
-> * Reduce current peak by <br />
+> * Reduce current peak by tuning CPU clock. <br />
 
-- Peloton Fitness Display MTK MT8173
+- Peloton Fitness Display (MTK MT8173)
 > * 
 
 - Quanta POS MTK MT8167B
 > * Porting BQ25890 charger and BQ27541 gauge.
 > * Power consumption optimal. <br />
 
-- Quanta Smart Speaker
-- Quanta Camera
+- Quanta Smart Speaker (MTK MT8167 Yocto project)
+> * Take Cyberon CSpotter/Clistener/CReadr library to implement a smiple smart speak
+> * Linux kernel gauge/charger portring <br />
 
+- Quanta Camera (Socionext Yocto project)
+> * GPIO configuration 
 
 ### __Armor Training Command__ `2015.3 - 2016.2`
 - Mandatory Military Service
@@ -73,7 +61,22 @@ Many useful IPC I learend but not practiced in actual project.
 
 >- Java/Python: <br />
 Between reading the answer of leetcode test, I learned much new language feature and tried
-to taste it in actual project. 
+to taste it in actual project.
+
+## Education
+### __National Taiwan University of Science and Technology__ `2012.9 - 2015.2`
+```
+Taipei, TPE
+```
+- M.S. in Computer Science
+- Worked with prof. Hsing-Kuo Pao, on Machine Learning Laboratory.
+- Master Thesis: [Traffic State Forecasting based on Multi-model Gaussian Process Regression](http://etheses.lib.ntust.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=1GhA.h/record?r1=1&h1=1)
+
+### __Yuan Ze University__ `2008.9 - 2012.6`
+```
+Taoyuan, TYN
+```
+- B.S. in Computer Science
 
 ## Miscellaneous
 - Programming language: C, C++, Markdown
