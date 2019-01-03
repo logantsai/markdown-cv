@@ -26,7 +26,6 @@ pdf: true
 - Customized software from vendor to match product design or customer requirement
 - Helped to deal with China product lines problem.
 - Developed the test script for factory image.
-
 - __Verizon Tablet__ (MTK MT8785)
 > * Porting BQ25896 into MTK battery subsystem and Increase HVDCP charging.
 > * Implemented dead battery charging into little kernel.
