@@ -22,10 +22,10 @@ pdf: true
 ### __Quanta Computer Inc.__ `2016.5 - Now`
 #### Software Engineer
 - BSP team member and in charge of power relative function
-- Work with EE to debug HW/SW issue or fine-tune power consumption
+- Collaborated with EE to debug HW/SW issue or fine-tuned power consumption
 - Customized software from vendor to match product design or customer requirement
-- Help to deal with China product lines problem.
-- Write the test script for factory image.
+- Helped to deal with China product lines problem.
+- Developed the test script for factory image.
 
 - __Verizon Tablet__ (MTK MT8785)
 > * Porting BQ25896 into MTK battery subsystem and Increase HVDCP charging.
@@ -36,8 +36,8 @@ pdf: true
 
 - __Clover POS__ (Qualcomm APQ8028/APQ8094/SDA660)
 > * Porting BQ25703 charger and BQ28z610 gauge.
-> * Check PMIC or external regulator to optimal device power consumption to pass CEC.
-> * Reduce current peak by tuning CPU clock.
+> * Advanced PMIC or external regulator software to optimal device power consumption to pass CEC.
+> * Reduced current peak by tuning CPU clock.
 
 - __Peloton Fitness Display__ (MTK MT8173)
 > * This device doesn't have battery, therefore I fouced on bug fixed and customized.
@@ -47,7 +47,7 @@ pdf: true
 > * Power consumption optimal.
 
 - __Quanta Smart Speaker__ (MTK MT8167 Yocto project)
-> * Work with Cyberon CSpotter/Clistener/CReadr library to implement a smiple smart speaker
+> * Programmed Cyberon CSpotter/Clistener/CReadr library to implement a smiple smart speaker
 > * Linux kernel gauge/charger porting
 
 - __Quanta Camera__ (Socionext Yocto project)
