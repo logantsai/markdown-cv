@@ -63,7 +63,7 @@ Taipei, TPE
 ```
 - M.S. in Computer Science
 - Worked with prof. Hsing-Kuo Pao, on Machine Learning Laboratory.
-- Master Thesis: [Traffic State Forecasting based on Multi-model Gaussian Process Regression](http://etheses.lib.ntust.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=1GhA.h/record?r1=1&h1=1)
+- Master Thesis: [Traffic State Forecasting based on Multi-model Gaussian Process Regression](http://etheses.lib.ntust.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=80_j3E/record?r1=1&h1=1)
 
 ### __Yuan Ze University__ `2008.9 - 2012.6`
 ```
