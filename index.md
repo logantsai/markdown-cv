@@ -72,17 +72,17 @@ Taoyuan, TYN
 - B.S. in Computer Science
 
 ## Job Objective
->- Andoir/HAL framework: <br />
-After porting driver, hoping that I could implement corresponding program to access driver.
-Many useful IPC I learend but not practiced in actual project.
+>- Android/HAL framework: <br />
+Android and HAL framework is a bridge to communicate kernel and applcation, I hope to research how android system work and
+learn the design pattern on it. 
 
 >- Linux kernel framework: <br />
 >Because of using turnkey soluton on each project, our exteranl driver have to follow Qcom/MTK
->architecture. I want to implement or touch new architecture which never face.
+>architecture. I looking for a postion where can design architecture and ehance system anaysis skills. 
 
 >- Java/Python: <br />
-Between reading the answer of leetcode test, I learned much new language feature and tried
-to taste it in actual project.
+Between reading the answer of leetcode test, I learned much new language feature and hope
+to shape my programming skill in actual project with different language.
 
 ## Miscellaneous
 - Programming language: C, C++, Markdown
