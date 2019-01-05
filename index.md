@@ -36,7 +36,10 @@ pdf: true
 - __Clover POS__ (Qualcomm APQ8028/APQ8094/SDA660)
 > * Porting BQ25703 charger and BQ28z610 gauge.
 > * Advanced PMIC or external regulator software to optimal device power consumption to pass CEC.
-> * Reduced current peak by tuning CPU clock.
+> * Mitigated the current peak as device bootup.
+> * Implemented dynamic usb connector to meet customer requirement.
+> * Developed dead battery charging flow on bootloader.
+> * Developed shell script for pressing test on factory image.
 
 - __Peloton Fitness Display__ (MTK MT8173)
 > * This device doesn't have battery, therefore I fouced on bug fixed and customized.
@@ -51,6 +54,7 @@ pdf: true
 
 - __Quanta Camera__ (Socionext Yocto project)
 > * GPIO configuration
+> * TI charger porting
 
 ### __Armor Training Command__ `2015.3 - 2016.2`
 - Mandatory Military Service
