@@ -74,19 +74,6 @@ Taoyuan, TYN
 ```
 - B.S. in Computer Science
 
-## Job Objective
->- Android/HAL framework: <br />
-Android and HAL framework is a bridge to communicate kernel and applcation, I hope to research how android system work and
-learn the design pattern on it. 
-
->- Linux kernel framework: <br />
-Because of using turnkey soluton on each project, our exteranl driver have to follow Qcom/MTK
-architecture. I looking for a postion where can design architecture and enhance system anaysis skills. 
-
->- Java/Python: <br />
-Between reading the answer of leetcode test, I learned much new language feature and hope
-to shape my programming skill in actual project with different language.
-
 ## Miscellaneous
 - Programming language: C, C++, Markdown
 - Interests: Badminton, World of Warcraft, Hearthstone
