@@ -3,7 +3,7 @@ layout: cv
 title: MarkTsai
 pdf: true
 ---
-# Shiaugeng Tsai (Mark)
+# ShiauGeng Tsai (Mark)
 
 <div id="webaddress">
 <i class="fi-mail" style="margin-left:1em"></i>
@@ -13,10 +13,10 @@ pdf: true
 ## Technical Skills
 - Familiar with BSP, charger, gauge, PMIC, devcie tree framework
 - Experience in Yocto project, AOSP
-- Bootloader development(UEFI, little kernel) driver port and customized
+- Bootloader development(UEFI, little kernel) driver porting and customized
 - Android kernel, Driver, framework and HAL porting
 - Factory test tool development(shell script)
-- Version control toos: Git
+- Version control tools: git, gerrit
 
 ## Experience
 ### __Quanta Computer Inc.__ `2016.5 - Now`
@@ -44,7 +44,7 @@ pdf: true
 - __Peloton Fitness Display__ (MTK MT8173)
 > * This device doesn't have battery, therefore I fouced on bug fixed and customized.
 
-- __Quanta POS__ MTK MT8167B
+- __Quanta POS__ (MTK MT8167B)
 > * Porting BQ25890 charger and BQ27541 gauge.
 > * Power consumption optimal.
 
@@ -55,6 +55,14 @@ pdf: true
 - __Quanta Camera__ (Socionext Yocto project)
 > * GPIO configuration
 > * TI charger porting
+
+- __Quanta watch__ (sdm429w)
+> * bq27z561 fuel guage porting.
+> * Modify Qualcomm gauge and charger driver for substandard battery  
+
+- __Quanta Router__ (Qualcomm openwrt project)
+> * Implement special design about power conrtrol
+> * Porting LTC3350 about capacitance
 
 ### __Armor Training Command__ `2015.3 - 2016.2`
 - Mandatory Military Service
@@ -73,15 +81,13 @@ Taipei, TPE
 Taoyuan, TYN
 ```
 - B.S. in Computer Science
-
 ## Miscellaneous
+- Autonomic learning: basic docker ability for self dotfile, qemu, perf tools 
 - Programming language: C, C++, Markdown
-- Interests: Badminton, World of Warcraft, Hearthstone
 - Favorite reference book:
 >- LDD, APUE, CSAPP, UNIX Network programming, The Linux Programming Interface
 - Favorite reference website:
 >- [Bootlin](https://elixir.bootlin.com/linux/latest/source), [NCKU csie wiki](http://wiki.csie.ncku.edu.tw/)
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: Jan 2021 -->
